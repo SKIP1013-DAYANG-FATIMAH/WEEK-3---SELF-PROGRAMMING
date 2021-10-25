@@ -1,0 +1,26 @@
+package selfProgramming;
+
+class Float2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.printf("%-10s","Total");
+		System.out.println("");
+		System.out.printf("%8d%n", 123);
+		System.out.println("");
+		System.out.printf("%4d%5d%n", 123, 456);
+		System.out.println("");
+		System.out.printf("%4d%n", 12345);
+		System.out.println("");
+		System.out.printf("%6.3f%n", 123.45);
+		System.out.println("");
+		System.out.printf("%-8d%n", 123);
+		System.out.println("");
+		System.out.printf("%-6s%5d%n","num =", 456);
+		System.out.println("");
+		System.out.printf("%-6s%6.32f","Total:", 67.99);
+
+
+	}
+
+}
