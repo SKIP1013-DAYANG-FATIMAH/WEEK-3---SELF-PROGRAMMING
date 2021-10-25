@@ -1,0 +1,20 @@
+package selfProgramming;
+
+class IfExercise {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int odd=0;
+		double total=0, average=0;
+		odd = 1;
+		while (odd<=19) {
+				total = total + odd;
+				odd = odd + 2;
+					}
+		average = total / 10;
+		System.out.println("Total = "+ total);
+		System.out.println("Average = "+ average);
+
+	}
+
+}
