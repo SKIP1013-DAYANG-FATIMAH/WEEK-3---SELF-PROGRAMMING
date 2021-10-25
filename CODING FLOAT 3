@@ -1,0 +1,20 @@
+package selfProgramming;
+
+class Float3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String name = "Ang";
+		int age = 19;
+		double gpa = 3.86;
+		System.out.printf("%-7s%7s%n","Name =",name);
+		System.out.println("");
+		System.out.printf("%-7s%7d%n","Age =",age);
+		System.out.println("");
+		System.out.printf("%-7s%7.2f%n","GPA =",gpa);
+		System.out.println("");
+		
+
+	}
+
+}
