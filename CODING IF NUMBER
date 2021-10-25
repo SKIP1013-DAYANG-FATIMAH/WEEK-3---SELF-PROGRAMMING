@@ -1,0 +1,17 @@
+package selfProgramming;
+
+class IfNumber {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double num=987;
+		if(num>0)
+				System.out.print("positive");
+		else if(num<0)
+			System.out.print("negative");
+		else 
+			System.out.print("zero");
+
+	}
+
+}
