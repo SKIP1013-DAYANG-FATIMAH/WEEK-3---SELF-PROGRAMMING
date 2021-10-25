@@ -1,0 +1,30 @@
+package numericData;
+
+public class Exercise2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double num1 =3.57;
+		double num2 =3.09;
+		double sum,cgpa;
+		String name = "Dayang Fatimah binti Zaki";
+		
+		sum = num1 + num2;
+		cgpa = sum/2;
+		
+		System.out.println("Matriculation Result Slip");
+		System.out.println();
+		System.out.println("Student's Name : " + name);
+		System.out.println("MATRIC NUMBER : MS202411430");
+		System.out.println();
+		
+		System.out.println("Semester 1 : " + 3.57);
+		
+		System.out.println("Semester 2 : " + 3.09);
+		System.out.println();
+
+		System.out.println("Final CGPA : " + cgpa);
+		
+			}
+
+}
