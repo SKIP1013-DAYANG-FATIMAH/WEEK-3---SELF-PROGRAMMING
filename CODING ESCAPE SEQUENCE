@@ -1,0 +1,18 @@
+package selfProgramming;
+
+class EscapeSequence {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I said \"Hello\" to you.");
+		System.out.println("");
+		System.out.println("Roses are red,\n\tViolets are blue,\n" + "Sugar is sweet,\n\tBut I have \"commitment issues\",\n\t" + "So I'd rather just be friends\n\tAt this point in our " + "relationship.");
+		System.out.println("");
+		System.out.println("\"Thank you all for coming to my home tonight,\" he said mysteriously.");
+		System.out.println("");
+		System.out.println("For you love,\n\tLet's talk about love.\n\t" + "Is it anything and everything you hoped for?\n\t" + "Or the feeling haunt you?\n\t" + "I know the feeling haunt you.\n\t" + "This maybe the night that my dreams might let me know,\n\t" + "All the stars are closer,\n\t"  + "All the stars are closer,\n\t"  + "All the stars are closer.\n\t");
+		
+
+	}
+
+}
